@@ -9,23 +9,23 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 
 # Conteúdos
 
-##### Livros:
+##### **Livros**:
 - Intelligence Driven Incident Response
 - Effective Threat Intelligence
 - The Threat Intelligence Handbook
 - Contagem regressiva até zero day
 - Guerra Cibernética
 
-##### Links:
-- CTI Self Study Plan - Katie Nickels
-- CTI Study Plan - Andy Piazza
-- CTI Fundamentals - The Four Sec
-- Pyramid of Pain
-- CyberKillChain - e outras coisas
+##### **Links**:
+- [CTI Self Study Plan - Katie Nickels](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
+- [CTI Study Plan - Andy Piazza](https://klrgrz.medium.com/cyber-threat-intelligence-study-plan-c60484d319cb)
+- [CTI Fundamentals - The Four Sec](https://medium.com/@thefoursec/threat-intelligence-the-fundamentals-fc582bba7b7)
+- [Pyramid of Pain](https://www.sans.org/tools/the-pyramid-of-pain/)
+- [CyberKillChain - e outras coisas](https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/)
 
-##### Cursos:
-- Mitre ATT&CK
-- Foundation of Operationalizing MITRE ATT&CK
+##### **Cursos**:
+- [Mitre ATT&CK](https://attack.mitre.org/resources/training/cti/)
+- [Foundation of Operationalizing MITRE ATT&CK](https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck)
 
-##### Vídeos:
-- Webinar SANS - The Cycle of Cyber Threat Intelligence
+##### **Vídeos**:
+- [Webinar SANS - The Cycle of Cyber Threat Intelligence](https://www.youtube.com/watch?v=J7e74QLVxCk)
