@@ -10,11 +10,11 @@ Uma ameaça se baseia em três pilares, sendo eles a junção de oportunidade, m
 # Conteúdos
 
 ##### **Livros**:
-- Intelligence Driven Incident Response
-- Effective Threat Intelligence
-- The Threat Intelligence Handbook
-- Contagem regressiva até zero day
-- Guerra Cibernética
+- [Intelligence Driven Incident Response](https://amzn.to/3B0KwVG)
+- [Effective Threat Intelligence](https://amzn.to/3PBadA0)
+- [The Threat Intelligence Handbook](https://amzn.to/3RKYu3Z)
+- [Contagem regressiva até zero day](https://amzn.to/3RN626f)
+- [Guerra Cibernética](https://amzn.to/3v30Ill)
 
 ##### **Links**:
 - [CTI Self Study Plan - Katie Nickels](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
